@@ -9,8 +9,8 @@ in the near future  </p>
 </br>
 </br>
 </br>
-<p align = "center"> <b> Language and Tools </b> :computer: </p>
+<!-- <p align = "center"> <b> Language and Tools </b> :computer: </p> -->
 </br>
 </br>
 </br>
-![image](https://user-images.githubusercontent.com/107506306/183118426-493641eb-e727-4e84-8871-1dca7332f919.png)
+
